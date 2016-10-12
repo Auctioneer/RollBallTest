@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollBallTest.CSharp", "RollBallTest.CSharp.csproj", "{EE02F720-C1E5-747D-AEF0-559DBE4E16CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollBallTest.CSharp.Editor", "RollBallTest.CSharp.Editor.csproj", "{B30084EF-3AA8-7831-9FA9-E1B7530AF144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE02F720-C1E5-747D-AEF0-559DBE4E16CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE02F720-C1E5-747D-AEF0-559DBE4E16CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE02F720-C1E5-747D-AEF0-559DBE4E16CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE02F720-C1E5-747D-AEF0-559DBE4E16CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30084EF-3AA8-7831-9FA9-E1B7530AF144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30084EF-3AA8-7831-9FA9-E1B7530AF144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30084EF-3AA8-7831-9FA9-E1B7530AF144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30084EF-3AA8-7831-9FA9-E1B7530AF144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
